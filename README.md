@@ -1,11 +1,3 @@
-<h1>Django</h1>
-<ol>
-<li><a href="http://srivarshan12.pythonanywhere.com">Blog</a></li>
-<!-- <li>Portfolio:<a href="http://srivarshan13.pythonanywhere.com">view site</a></li> -->
-<li><a href="http://shadesofdrawing12.pythonanywhere.com/">Shades of drawing</a> (desktop only)</li>
-</ol>
-  
-  
 <h1>HTML,CSS,JS</h1>
 <h2>Frontend Mentor challenges</h2>
 <ol>
